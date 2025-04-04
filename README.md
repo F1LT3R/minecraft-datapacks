@@ -2,7 +2,7 @@
 
 ## Triggers
 
-```properties
+```mcfunction
 /trigger leaf_shell
 /trigger glass_shell
 /trigger gear_up
