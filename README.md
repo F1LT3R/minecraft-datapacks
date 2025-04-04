@@ -12,6 +12,6 @@
 
 ## Functions
 
-```properties
+```mcfunction
 /function horse_trap
 ```
