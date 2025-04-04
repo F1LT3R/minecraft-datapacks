@@ -1,0 +1,10 @@
+{
+    "values": [
+      "my:tick",
+	  "my:check_gear_up_trigger",
+	  "my:check_leaf_shell_trigger",
+	  "my:check_glass_shell_trigger",
+	  "my:check_tree_house_trigger",
+	  "my:check_skeletons_on_pillars_trigger"
+    ]
+}

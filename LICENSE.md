@@ -1,0 +1,1 @@
+Copyright Alistair MacDonald (F1LT3R) © 2005. All rights reserved. 
