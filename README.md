@@ -1,4 +1,4 @@
-# Minecraft DataPacks
+# Minecraft DataPack "my"
 
 ## Triggers
 
@@ -13,5 +13,5 @@
 ## Functions
 
 ```mcfunction
-/function horse_trap
+/function my:horse_trap
 ```
