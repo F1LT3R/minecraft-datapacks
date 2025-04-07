@@ -17,3 +17,7 @@ function my:check_tree_house_trigger
 scoreboard objectives add skeletons_on_pillars trigger
 scoreboard players enable @a skeletons_on_pillars
 function my:check_skeletons_on_pillars_trigger
+
+scoreboard objectives add barrier_shell trigger
+scoreboard players enable @a barrier_shell
+function my:check_barrier_shell_trigger

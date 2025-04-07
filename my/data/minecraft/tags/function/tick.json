@@ -5,6 +5,7 @@
 	  "my:check_leaf_shell_trigger",
 	  "my:check_glass_shell_trigger",
 	  "my:check_tree_house_trigger",
+	  "my:check_barrier_shell_trigger",
 	  "my:check_skeletons_on_pillars_trigger"
     ]
 }
