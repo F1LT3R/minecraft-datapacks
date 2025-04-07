@@ -1,4 +1,4 @@
-# Minecraft DataPacks
+# Minecraft DataPack "my"
 
 ## Triggers
 
@@ -21,5 +21,5 @@
 
 [Gamer Geeks - Minecraft Tools & Generators](https://www.gamergeeks.net/apps/minecraft/mob-generator)
 
-## MacDonald.quest Servers
+
 
