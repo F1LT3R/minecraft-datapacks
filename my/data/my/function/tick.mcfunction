@@ -21,3 +21,7 @@ function my:check_skeletons_on_pillars_trigger
 scoreboard objectives add barrier_shell trigger
 scoreboard players enable @a barrier_shell
 function my:check_barrier_shell_trigger
+
+scoreboard objectives add redstone_building_shulker trigger
+scoreboard players enable @a redstone_building_shulker
+function my:check_redstone_building_shulker_trigger
